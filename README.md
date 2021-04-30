@@ -7,7 +7,7 @@ You can arrange according to the country you want
 I am writing the codes when you have to change, so you can get the data set you want
 write the countries you want with the same number 
 I made a visualization using middle east and north africa countries, you can do it according to northern europe south asia middle asia or america
-![Ekran Alıntısı](https://user-images.githubusercontent.com/69467096/116694866-7798fb80-a9c8-11eb-8874-b615f7019d67.PNG)
+![InkedEkran Alıntısı_LI](https://user-images.githubusercontent.com/69467096/116695273-0b6ac780-a9c9-11eb-9fd5-a3ddc1b4bb34.jpg)
 dataset i use; https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 
 ```python
