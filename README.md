@@ -1,14 +1,14 @@
 # HappinessEDA
 ### Visualization with seaborn for Happiness report 2021
 ------------------------------------------------------------------------
-## Although this research is purely scientific, it has no political aim.
+## This research is purely scientific. has no political aim.
 ------------------------------------------------------------------------
 You can arrange according to the country you want
 I am writing the codes when you have to change, so you can get the data set you want
 write the countries you want with the same number 
 I made a visualization using middle east and north africa countries, you can do it according to northern europe south asia middle asia or america
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/69467096/116694866-7798fb80-a9c8-11eb-8874-b615f7019d67.PNG)
-
+dataset i use; https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 
 ```python
 
